@@ -1,0 +1,157 @@
+
+
+.about-us-title{
+    padding: 200px 0 0;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url("./img/aboutus/about-sub-header.jpg");
+}
+
+.about-header{
+    top: 25px;
+    position: relative;
+    padding: 45px 45px 0px;
+    background: #fff;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.about-sub-title{
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    color: #6c6d8b;
+    margin-bottom: 2px;
+}
+.about-title{
+    font-size: 44px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.65px;
+    color: #01c3ca;
+}
+
+
+
+.about-us-call-to-action{
+    margin-bottom: 100px;
+}
+.about-us-call-to-action .only-indigo{
+    margin-top: 66px;
+}
+.about-us-call-to-action .single-service{
+    display: flex;
+}
+.about-us-call-to-action .service-img{
+    margin-right: 20px;
+    width: 180px;
+}
+.about-us-call-to-action .service-title {
+    font-size: 17px;
+    font-weight: normal;
+    letter-spacing: -0.25px;
+    color: #151416;
+    margin-bottom: 22px;
+}
+.about-us-call-to-action .service-content .paragraph{
+    margin-bottom: 22px;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: -0.21px;
+    color: #7e879a;
+}
+.about-us-call-to-action .service-content a{
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    color: #01c3ca;
+    text-transform: uppercase;
+}
+
+
+
+.culture-part{
+    background-color: #f8f9fb;
+    padding-bottom: 60px;
+    padding-top: 105px;
+}
+.culture-img{
+    margin-top: 80px;
+    margin-bottom: 55px;
+}
+.culture-content .paragraph p{
+    font-size: 17px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.76;
+    letter-spacing: -0.39px;
+    color: #6c6d8b;
+    margin-right: 40px;
+}
+.culture-part .section-sub-title{
+    padding-bottom: 19px;
+}
+
+
+
+.about-section-title{
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.44px;
+    color: #151416
+}
+.about-section-sub-title{
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 3px;
+    color: #7e879a
+}
+
+.team-part{
+    margin-top: 129px;
+    padding-bottom: 15px;
+}
+.team-mates{
+    margin-top: 55px;
+}
+.team-mate-content{
+    margin-top: 21px;
+}
+.team-mate-name{
+    font-size: 17px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.25px;
+    color: #151416;
+    margin-bottom: 4px;
+}
+.team-mate-designation{
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.64;
+    letter-spacing: -0.21px;
+    color: #7e879a;
+}
